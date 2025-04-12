@@ -15,6 +15,8 @@ Iluminia-VF est une plateforme Python complète orientée intelligence augmenté
 - Quantum / Astropy / NLP / RASA / Transformers
 - Gestion des consentements, préférences, notifications, cache Redis
 
+- CODE CRYPTER PAR MOT DE PASSE MAITRE ET ENV. bon courage ! :)
+
 ## 🚀 Lancer le projet
 ```bash
 pip install -r requirements.txt
